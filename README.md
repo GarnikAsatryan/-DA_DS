@@ -30,3 +30,4 @@
 6. Расчитаем помесячную динамику количества вакансий для Аналитика данных и специалиста по Data Science (Отдельно для грейдов Junior, Junior+, Middle, Senior).
 7. Сформулируем общие выводы и рекомендации.
 
+[ПРЕЗЕНТАЦИЯ по проекту](https://docs.google.com/presentation/d/1Uamf_DZlffyPIgi3-WotIQgdHr558pvDAgGq7EW8NJs/edit?usp=sharing)
